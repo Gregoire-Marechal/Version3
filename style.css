@@ -1,5 +1,11 @@
+body{
+	background-color: #F0F0F0;
+	color: #000099;
+}
+
 p { 
-	font: 16pt georgia; 
+	font: 16pt arial; 
 	margin-top: 10px; 
-	text-align: right;
+	text-align: left;
+	
 	}
